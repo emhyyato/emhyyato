@@ -1,5 +1,4 @@
 ### Olá, sou a Emilly Thayenne🤍
-- 3° ano do Ensino Médio
 <div align="left">
   <a href="https://github.com/emhyyato">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=emhyyato&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
